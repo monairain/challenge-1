@@ -2,12 +2,13 @@
 Module 1 Challenge
 
 Deployed website: https://monairain.github.io/challenge-1/
+REpo: https://github.com/monairain/challenge-1 
 
 # Refactoring Horiseon webpage.
 
 ## Description 
 
-I have refactored Horiseon website so it follows accesibility standards so it optimized for search engines.
+I have refactored Horiseon website so it follows accesibility standards so it is optimized for search engines.
 The code is now less cluttered and efficient to work with for potential changes in the future.
 I learnt that things can be laid out a lot simpler if you can find patterns within. Longer code doesn't always mean it's complex or well streamlined.
 
