@@ -1,13 +1,16 @@
+/* added styling that applies to the whole page */ 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* set the bg color */
 body {
     background-color: #d9dcd6;
 }
 
+/* determined padding, font and colors of the header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +52,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* further specific styling to classes, their placement, added imagery and corrected arrangement, adjusted margins, fonts and text alignment  */
 
 .hero {
     height: 800px;
